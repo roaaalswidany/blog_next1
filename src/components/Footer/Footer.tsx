@@ -2,8 +2,8 @@
 
 const Footer = () => {
   return (
-    <div>
-      herelooo from foot
+    <div className="bg-gray-400 text-center p-4">
+      copyright@ Vica - 2025
     </div>
   )
 }
